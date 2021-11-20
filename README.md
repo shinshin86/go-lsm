@@ -83,3 +83,11 @@ func main() {
 }
 ```
 
+## Licence
+
+[MIT](https://github.com/shinshin86/go-lsm/blob/main/LICENSE)
+
+## Author
+
+[Yuki Shindo](https://shinshin86.com/en)
+
