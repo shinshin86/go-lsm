@@ -1,5 +1,7 @@
 # lsm
 
+[![Test](https://github.com/shinshin86/go-lsm/actions/workflows/test.yml/badge.svg)](https://github.com/shinshin86/go-lsm/actions/workflows/test.yml)
+
 This is a Go implementation of like a **l**ocal**S**torage **m**ock.
 
 However, please note that it is arranged to be implemented in Go, and does not fully reproduce the behavior of localStorage.
